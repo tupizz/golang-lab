@@ -29,7 +29,7 @@ func createMemoizeFib() func(uint) uint {
 			return posicao
 		}
 
-		if _, ok := cache[posicao]; !ok {
+		if _, exists := cache[posicao]; !exists {
 			cache[posicao] = fibFn(posicao-1) + fibFn(posicao-2)
 		}
 
