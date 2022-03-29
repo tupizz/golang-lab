@@ -1,0 +1,14 @@
+{
+    "name": "Tadeu Tupinambá",
+    "age": 27,
+    "skills": [
+        "golang",
+        "nodejs",
+        "devops",
+        "kubernetes",
+        "java",
+        "react",
+        "vue"
+    ],
+    "hobby": "Cross fit <3"
+}
