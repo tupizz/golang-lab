@@ -1,0 +1,1 @@
+go test --coverprofile cobertura.txt  ./... && go tool cover --html=cobertura.txt

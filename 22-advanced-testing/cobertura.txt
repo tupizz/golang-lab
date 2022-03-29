@@ -1,0 +1,4 @@
+mode: set
+advanced-tests/formas/formas.go:14.28,16.2 1 0
+advanced-tests/formas/formas.go:23.35,25.2 1 1
+advanced-tests/formas/formas.go:31.33,33.2 1 1
